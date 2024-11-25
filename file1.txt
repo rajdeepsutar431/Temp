@@ -1,5 +1,4 @@
-my name is Rajdeep
-and i am his friend Siddhant
+my name is rajdeep
 
 
 changes in made in the master branch 
